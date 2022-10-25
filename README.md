@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fayzulla Xo'janiyazov</h1>
-<h2 align="center">I'm BackEnd developer </h2><br>
+<h2 align="center">Hi 👋, I'm Fayzulla Xo'janiyazov</h2>
+<h3 align="center">I'm BackEnd developer </h3><br>
 
 - 🌱 I’m currently learning PhpStorm
 
