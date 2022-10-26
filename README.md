@@ -7,7 +7,7 @@
 
 - 📫 How to reach me xojayevfayzulla7@gmail.com
 
-- Contact me <i>+998888578387
+- 📲 Contact me <i>+998888578387
 
 - ⚡️ Fun fact I am funny 
 
