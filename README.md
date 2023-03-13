@@ -18,7 +18,7 @@ My coding time -
 [![wakatime](https://wakatime.com/badge/user/e8d6854c-e9c8-4b99-93d8-4321e2abe89c.svg)](https://wakatime.com/@e8d6854c-e9c8-4b99-93d8-4321e2abe89c)
 
 ##snake eating my contribution graph
-![snake gif](https://github.com/Fayzulla8387/Fayzulla8387/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/Fayzulla8387/Fayzulla8387/blob/output/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
